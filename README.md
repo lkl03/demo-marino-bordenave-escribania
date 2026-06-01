@@ -1,2 +1,7 @@
-# demo-marino-bordenave-escribania
-Demo web para Marino - Bordenave Escribanía — diseñada por eterlab.
+# Marino - Bordenave Escribanía
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
